@@ -19,7 +19,7 @@
         <dependency>
             <groupId>com.h2database</groupId>
             <artifactId>h2</artifactId>
-            <version>1.4.200</version> <!--QUesto è un commento: Questa è la versione trovata sulle slide. Accertarsi che sia affidabile DA RIVEDERE -->
+            <version>1.4.200</version>
         </dependency>
     </dependencies>
 
