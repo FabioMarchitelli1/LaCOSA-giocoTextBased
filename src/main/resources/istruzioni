@@ -1,0 +1,117 @@
+
+                        ISTRUZIONI DI GIOCO
+
+Suggerimenti:
+Durante il gioco, troverai frasi racchiuse tra parentesi graffe {}. Questi suggerimenti rappresentano i pensieri in prima persona del personaggio, che potrebbero aiutarti a capire cosa fare.
+
+Comandi:
+La maggior parte dei comandi segue una struttura semplice Verbo-Oggetto (V-O), mentre alcuni comandi
+richiedono solo un verbo singolo. Ecco alcuni esempi:
+
+"Prendi la torcia"
+"Vai a nord"
+"Inventario"
+"Salva"
+"Aiuto"
+
+
+Gli articoli (come "la", "il") e le congiunzioni possono essere omessi nei comandi, ma è consigliato usarli per rendere l'esperienza di gioco più immersiva e naturale.
+
+Di seguito troverai una lista di tutti i comandi, divisi per tipologia ("V-O" per i comandi che richiedono un oggetto e "S" per i comandi con solo il verbo), una breve descrizione del loro utilizzo e i sinonimi disponibili.
+
+
+                     COMANDI S (Verbo singolo):
+
+INVENTARIO
+
+Descrizione: Mostra gli oggetti attualmente in possesso del personaggio.
+Esempio: "Inventario"
+Sinonimi: Nessuno
+
+
+OSSERVA
+
+Descrizione: Fornisce una descrizione dettagliata della stanza corrente.
+Esempio: "Osserva"
+Sinonimi: "Guarda"
+
+
+FINE
+
+Descrizione: Termina la sessione di gioco.
+Esempio: "Fine"
+Sinonimi: "Termina", "Exit", "Esci"
+
+
+AIUTO
+
+Descrizione: Mostra le istruzioni con una lista di tutti comandi disponibili.
+Esempio: "Aiuto"
+Sinonimi: "Help", "Istruzioni"
+
+
+
+                   COMANDI V-O (Verbo-Oggetto):
+
+VAI
+
+Descrizione: Muove il personaggio in una direzione specifica (nord, sud, est, ovest).
+Esempio: "Vai a nord"
+Sinonimi: "Prosegui", "Procedi", "Dirigiti", "Corri", "Cammina", "Muoviti"
+
+
+ESAMINA
+
+Descrizione: Fornisce dettagli su un oggetto presente nella stanza o nell'inventario.
+Esempio: "Esamina il quadro"
+Sinonimi: "Analizza"
+
+
+USA
+
+Descrizione: Permette di utilizzare un oggetto specifico.
+Esempio: "Usa pala"
+Sinonimi: "Utilizza"
+
+
+SPARA
+
+Descrizione: Usa un'arma da fuoco contro un bersaglio.
+Esempio: "Spara al mostro"
+Sinonimi: Nessuno
+
+
+ATTIVA
+
+Descrizione: Attiva oggetti o interruttori.
+Esempio: "Attiva la torcia"
+Sinonimi: "Aziona", "Innesca", "Premi"
+
+
+DISATTIVA
+
+Descrizione: Disattiva meccanismi o dispositivi.
+Esempio: "Disattiva la torcia"
+Sinonimi: "Spegni"
+
+
+PRENDI
+
+Descrizione: Raccoglie un oggetto e lo inserisce nell'inventario.
+Esempio: "Prendi la foto"
+Sinonimi: "Raccogli"
+
+
+PARLA
+
+Descrizione: Inizia una conversazione con un personaggio.
+Esempio: "Parla con guardia"
+Sinonimi: "Comunica", "Dialoga", "Discuti"
+
+
+LEGGI
+
+Descrizione: Legge un testo o un documento nella stanza o nell'inventario.
+Esempio: "Leggi il libro"
+Sinonimi: "Consulta"
+

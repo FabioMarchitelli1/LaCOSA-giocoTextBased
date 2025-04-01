@@ -1,0 +1,31 @@
+# === Java compilati ===
+*.class
+
+# === Build di Maven ===
+/target/
+
+# === Log e file temporanei ===
+*.log
+*.tmp
+*.bak
+~$*
+
+# === IDE: IntelliJ IDEA ===
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# === IDE: Eclipse ===
+.project
+.classpath
+.settings/
+
+# === Database H2 (file locali) ===
+*.mv.db
+*.h2.db
+*.trace.db
+
+# === Sistema operativo ===
+.DS_Store
+Thumbs.db
